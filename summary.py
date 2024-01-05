@@ -35,3 +35,7 @@ result)
 # list insert(), pop(), remove()
 
 # reduce 사용법
+
+# 파이썬 int max값 찾기 -> https://www.delftstack.com/ko/howto/python/python-max-int/
+
+# 파이썬 stack, queue
