@@ -31,3 +31,7 @@ result)
 # list(filter(function, iterable)) -> iterable : 조건에 맞는 원소만 걸러서 반환
 
 # int 함수로 n빈법 변환하기 : https://school.programmers.co.kr/learn/courses/30/lessons/68935/solution_groups?language=python3
+
+# list insert(), pop(), remove()
+
+# reduce 사용법
